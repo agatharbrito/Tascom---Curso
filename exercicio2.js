@@ -8,4 +8,4 @@ taxaCrescimento = taxaCrescimento * 1.5;
 
 console.log(`Nome da Cidade: ${cidade}`);
 console.log(`Nova População: ${populacao}`);
-console.log(`Taxa de Crescimento: ${taxaCrescimento}`);
+console.log(`Taxa de Crescimento: ${taxaCrescimento.toFixed(2)}`);
