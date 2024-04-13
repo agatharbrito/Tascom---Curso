@@ -18,3 +18,4 @@ var escovarOsDentes =
 var escovar_os_dentes2 = `pegar a ${pasta} e a ${escova} e escovar os dentes por ${minutos} minutos`;
 
 console.log(escovarOsDentes);
+test;
